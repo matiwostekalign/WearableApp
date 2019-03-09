@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\Desktop\\Individual Course work\\NetworkingWearableApp\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-round-v23\\values-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\Desktop\\Wear\\.gradle\\4.6\\caches\\transforms-1\\files-1.1\\wear-28.0.0.aar\\6b535fd1584139df1b54e751d0fe0362\\res\\values-round-v23\\values-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    },
+                    "to": {
+                        "startLines": "4,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "176,605,691",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "234,686,766"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\Desktop\\Wear\\.gradle\\4.6\\caches\\transforms-1\\files-1.1\\wearable-2.4.0.aar\\72826167c7611f5c7e94eaf9bb4bcfb0\\res\\values-round-v23\\values.xml",
+                    "from": {
+                        "startLines": "4,5,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "213,269,531,608,689,733,804",
+                        "endColumns": "55,56,76,80,43,70,72",
+                        "endOffsets": "268,325,607,688,732,803,876"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,239,320,405,453,528",
+                        "endColumns": "59,60,80,84,47,74,76",
+                        "endOffsets": "110,171,315,400,448,523,600"
+                    }
+                }
+            ]
+        }
+    ]
+}

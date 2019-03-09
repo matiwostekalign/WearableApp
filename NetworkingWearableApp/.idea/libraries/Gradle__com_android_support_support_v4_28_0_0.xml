@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-v4-28.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Wear/.gradle/4.6/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/00fd7ec5522a597774252ee56ae58f92/res" />
+      <root url="jar://$PROJECT_DIR$/../../Wear/.gradle/4.6/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/00fd7ec5522a597774252ee56ae58f92/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wear High Bandwidth Networking</string>
+
+    <string name="network_fast">Network Fast</string>
+    <string name="network_slow">Network Slow</string>
+    <string name="network_disconnected">Disconnected</string>
+    <string name="network_connecting">Connecting</string>
+
+    <string name="info_request_network">To use this sample, ensure that you have removed saved Wi-Fi networks and the device is unplugged</string>
+    <string name="info_release_network">A high-bandwidth network is now available</string>
+    <string name="info_add_wifi">No high-bandwidth network is available. You must add a Wi-Fi network to continue</string>
+
+    <string name="button_request_network">Request High-bandwidth Network</string>
+    <string name="button_release_network">Release High-bandwidth Network</string>
+    <string name="button_add_wifi">Add Wi-Fi Network</string>
+    <string name="reply_was">Reply was:</string>
+    <string name="reply_label">My Reply</string>
+    <string name="channel_description">my description</string>
+    <string name="channel_name">My channel</string>
+
+
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+        <item>May Be</item>
+    </string-array>
+
+</resources>

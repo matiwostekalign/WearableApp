@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><!--  -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.wearable.wear.wearhighbandwidthnetworking"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-feature android:name="android.hardware.type.watch" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat">
+        <uses-library
+            android:name="com.google.android.wearable"
+            android:required="true" />
+
+        <meta-data
+            android:name="com.google.android.wearable.standalone"
+            android:value="true" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NotificationDetails" />
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".MyRecyclerActivity"></activity>
+        <activity android:name=".Viewall"/>
+    </application>
+
+</manifest>
